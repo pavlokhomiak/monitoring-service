@@ -42,5 +42,4 @@ public class MonitoredEndpointController {
     public void delete(@PathVariable Integer id) {
         facade.delete(id);
     }
-
 }

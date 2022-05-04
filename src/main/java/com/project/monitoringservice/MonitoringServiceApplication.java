@@ -13,5 +13,4 @@ public class MonitoringServiceApplication {
     public static void main(String[] args) {
         SpringApplication.run(MonitoringServiceApplication.class, args);
     }
-
 }

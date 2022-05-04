@@ -50,5 +50,4 @@ public class MonitoredEndpointFacade {
         quartzScheduler.deleteJob(endpoint);
         service.deleteById(id);
     }
-
 }
